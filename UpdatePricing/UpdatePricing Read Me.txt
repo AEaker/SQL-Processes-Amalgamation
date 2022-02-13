@@ -1,0 +1,4 @@
+Pretty simple and used quite often: 
+Vendors hand us price files in excel and I would clean them up and take out the irrelevant information we don't need (every vendor sends a file with various amounts of information, none are exactly the same...I initially wanted to automate purging these files but most of the time this is just manually deleting columns. For some vendors I did write a VBA script to clean stuff up)
+Take the cleaned file(s), throw it in a folder, run script and pricing is updated. EZ-PZ. 
+Any items that are new are identified and a file is set aside for me to create those later. 

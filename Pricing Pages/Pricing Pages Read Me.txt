@@ -1,0 +1,6 @@
+Crème de la crème. 
+Giving base markups to items from core vendors that we have SPAs for, can upload pricing pages into p21, so when a salesperson enters an order, it automatically generates the price we want to charge them for the markup we have determined. If we don't have an SPA, it still does a general markup based off our general distributor cost. Different types of items can have different types of markup. Consignment pages are little bit more deliberate in their pricing, so they may be based off a fixed price pre-determined (contracts, etc). 
+
+This lets us generate data in a sales order just by putting in an item id. A vendor can easily have 40,000 items in their catalog, we have 10+ core vendors, so being able to dynamically price hundreds of thousands of items for a specific customer is extremely important and time-saving. These price pages also inject into our B2B website meaning that calling and quoting a price will equal the same price you see on the website.
+
+Consistent, quick, profitable. 

@@ -1,0 +1,2 @@
+Identify most recently sold items by vendor or most sold items. Can negotiate with reps to get better pricing on these items. 
+Shortcut for this is using our custom prefix that identifies a vendor, although this could also be done by specifying a vendor ID and all related items. 

@@ -1,0 +1,1 @@
+Identify items that we lost substantial margin on, get current pricing, what we historically have bought them for. Can pass this info to Sales to let them renegotiate contracts and markups. 

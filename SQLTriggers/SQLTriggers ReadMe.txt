@@ -1,0 +1,3 @@
+SQL Table and Trigger creation and then a python pulse check script to e-mail when audit table has a record generated.
+
+Some purposes: alert about same-day orders to increase our on-time shipment ratio, alert management about high-priority customer orders and have the order audited if made by new hire, compare purchase orders to internal pricing to find pricing discrepancies and prevent future invoice or inventory issues.

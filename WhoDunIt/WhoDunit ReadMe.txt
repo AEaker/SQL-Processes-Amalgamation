@@ -1,0 +1,1 @@
+Just identifies changes by an individual. Can be more specific in scope to see if pricing was changed, or upc codes ( which are important, because they're unique), or even UOM (changing a box size of 10 to 1000 would be fairly important when making orders).

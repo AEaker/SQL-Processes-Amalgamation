@@ -1,0 +1,1 @@
+Receiving a list of customer part numbers that match ours, then take all customer IDs for that particular customer, can concat that info and insert into reference table. 
