@@ -8,7 +8,8 @@ First role was dealing with price files from vendors, then was assigned projects
 
 The DB was setup (I believe) by the creators of our ERP system, Prophet 21 by Epicor. 
 A lot of my code is aimed at avoiding using their app or web application to upload imports, as it took a significant amount of time to prep and create those, and then for P21 to actually process them. Quite a bit of my solution was just uploading data to my own temp table I created and making transactions with that table.
-SQLAlchemy and Pandas were apart of my default boilerplate
+SQLAlchemy and Pandas were apart of my default boilerplate and ETL. 
+Sensitive info replaced in SQLALCH engine query, so visually those lines are going to look fairly generic. 
 Some scripts are similar to others, and as time goes on I ended up refactoring some of my most used code.
 
 
