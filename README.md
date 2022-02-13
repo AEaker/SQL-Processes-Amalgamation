@@ -14,7 +14,7 @@ Some scripts are similar to others, and as time goes on I ended up refactoring s
 
 
 
-Here's code that I typically use at my job to various functions:
+Here's code that I typically use at my job to complete various functions:
 
 Update our Distributor pricing from core vendors. Multiple price increases can happen at one time. 
 
